@@ -11,7 +11,7 @@ import $ from 'jquery';
 window.jQuery = $;
 window.$ = $;
 
-const url = 'https://github.com/sle118/squeezelite-esp32/commit/'
+const url = 'https://github.com/JacekZubielik/squeezelite-esp32/commit/'
 // Loading bootstrap with optional features
 initBootstrap({
   tooltip: true,

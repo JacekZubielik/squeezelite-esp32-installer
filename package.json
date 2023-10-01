@@ -12,7 +12,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sle118/squeezelite-esp32-installer.git"
+        "url": "https://github.com/JacekZubielik/squeezelite-esp32-installer.git"
     },
     "devDependencies": {
         "@babel/core": "^7.19.0",
